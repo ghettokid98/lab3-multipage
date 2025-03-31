@@ -4,7 +4,7 @@
     
 }
 h1,p{
-    color: white;
+    color: black;
 }
 body{
     background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("images/download.jpeg");
@@ -93,4 +93,12 @@ button{
 }
 button:hover{
     color: rgb(16, 41, 33);;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 50vh;
 }
